@@ -1,3 +1,20 @@
++#################
++## Latex
++#################
++
++*.aux
++*.bbl
++*.blg
++*.synctex
++*.log
++*.dvi
++*.out
++*.sav
++*.tcp
++*.tps
++*-eps-converted-to.pdf
++sunbelt-poster-2013.pdf
++ 
 #################
 ## Eclipse
 #################
